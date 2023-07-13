@@ -4,7 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This Application is a user-friendly tool designed to help people
+determine their Body Mass Index (BMI) quickly and accurately. The
+app is available on both Android and iOS platforms, and it's
+completely free to use.
 
 A few resources to get you started if this is your first Flutter project:
 
